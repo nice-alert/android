@@ -19,7 +19,14 @@
 - UI
 - HTTP
 
-
+### 好文推薦
+- OOM
+- View
+	- RecyclerView
+		-
+- HTTP
+- Thread
+- Design
 
 ### 系列教學文章
 - SmallerAPK - [Wojtek Kaliciński](https://twitter.com/wkalic)
@@ -45,4 +52,4 @@
 ### 國外值得關注的開發者
 開發者名稱|開發者簡介
 --------|---------
-
+[SmartDengg](http://www.weibo.com/brucefromsdu) | 阿里巴巴的 Android 工程師，文章邏輯清楚。
