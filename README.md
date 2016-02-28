@@ -22,8 +22,8 @@
 ### 好文推薦
 - OOM
 - View
-	- RecyclerView
-		-
+	- [RecyclerView技术栈](http://www.jianshu.com/p/16712681731e) - 介紹 RecyclerView 實作方法和使用方式。
+	- [The Anatomy of a Frame](https://medium.com/google-developers/the-anatomy-of-a-frame-d79e6c566c64)
 - HTTP
 - Thread
 - Design
