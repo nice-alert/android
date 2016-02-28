@@ -22,11 +22,13 @@
 ### 好文推薦
 - OOM
 - View
-	- RecyclerView
-		-
+	- [RecyclerView技术栈](http://www.jianshu.com/p/16712681731e) - 介紹 RecyclerView 實作方法和使用方式。
+	- [The Anatomy of a Frame](https://medium.com/google-developers/the-anatomy-of-a-frame-d79e6c566c64)
 - HTTP
 - Thread
 - Design
+- Tool
+	- [Ready to prototype from within Sketch? Then say hello to Silver](https://medium.com/sketch-app-sources/ready-to-prototype-from-within-sketch-then-say-hello-to-silver-a9e68b0ce3db) - 使用 sketch 製作 App prototype
 
 ### 系列教學文章
 - SmallerAPK - [Wojtek Kaliciński](https://twitter.com/wkalic)
@@ -39,6 +41,8 @@
 	- Part 6: [Image optimization, Zopfli & WebP](https://medium.com/@wkalicinski/smallerapk-part-6-image-optimization-zopfli-webp-4c462955647d)
 	- Part 7: [Image optimization, Shape and VectorDrawables](https://medium.com/@wkalicinski/smallerapk-part-7-image-optimization-shape-and-vectordrawables-ed6be3dca3f)
 	- Part 8: [Native libraries, open from APK](https://medium.com/@wkalicinski/smallerapk-part-8-native-libraries-open-from-apk-fc22713861ff)
+
+- [如何自學 Android?](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402135493&idx=1&sn=c2e040f95551082cbe2bdf7182dc3e9f#rd)
 
 - Awesome-RxJava - [lzyzsd](http://www.weibo.com/brucefromsdu)
 	此內容為簡體，整理 RxJava 相關文章，從 API、套件到 Test 都整理出部分值得看的文章。（作者是阿里巴巴的 android 開發者）
