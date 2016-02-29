@@ -12,6 +12,8 @@
 [Github 每週熱門專案](https://github.com/trending?l=java&since=weekly) | 這個網站可以去觀看 github 上目前每個程式語言的熱門專案，可以快速了解現在生態哪邊正打得火熱。
 [Android Develop Blog](http://android-developers.blogspot.tw/) | Google 會將即將或已經推出的新功能在這邊發表。
 [Geo Develop Blog](http://googlegeodevelopers.blogspot.tw/) | Google 把有關圖資相關的新技術都會在這邊，想關注這方面最新資訊的可以多來這邊關注。
+[free-programming-books](https://github.com/vhf/free-programming-books)|整理非常多程式語言的資料，當然也有 Android。
+[awesome-android](http://snowdream.github.io/awesome-android/)|
 
 
 ### 套件分享
