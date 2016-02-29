@@ -46,7 +46,7 @@
 
 - [如何自學 Android?](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402135493&idx=1&sn=c2e040f95551082cbe2bdf7182dc3e9f#rd)
 
-- Awesome-RxJava - [lzyzsd](http://www.weibo.com/brucefromsdu)
+- [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) - [lzyzsd](http://www.weibo.com/brucefromsdu)
 	此內容為簡體，整理 RxJava 相關文章，從 API、套件到 Test 都整理出部分值得看的文章。（作者是阿里巴巴的 android 開發者）
 
 - Awesome-android-mvp-dagger - [Tikitoo](http://tikitoo.me/)
