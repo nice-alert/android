@@ -3,6 +3,9 @@
 
 希望透過有結構性的整理能夠幫助大家快速吸收新知 ：）
 
+## Android Studio
+### 好文分享
+- [(About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.bjzmewxuj) - 設定好用的別名讓你不再翻倒咖啡！
 
 
 ## Android
@@ -68,8 +71,8 @@
 ### 國內值得關注的開發者
 開發者名稱|開發者簡介
 -------|-------
-[Sam lu](https://www.facebook.com/samlu128?ref=ts&fref=ts) | 2 Battery
-[Kny](https://www.facebook.com/KNYChen?fref=ts) | KNY台灣天氣.地震速報
+[Sam lu](https://www.facebook.com/samlu128?ref=ts&fref=ts) | 臉書偶爾會發 Android 開發經驗談
+[Ingram Chen](https://ingramchen.io/) | 有非常多經驗累積出來的的技術文分享，可惜的是但 2015 後比較少更新，也可以關注他的 [twitter](https://twitter.com/ingramchen)
 
 ### 國外值得關注的開發者
 開發者名稱|開發者簡介
