@@ -26,25 +26,28 @@
 名稱|授權|說明
 -----|----|-----
 
-- View
-- HTTP
-
 ### 好文推薦
-- OOM
+- RxJava
+	- [Android Push Notifications — GCM and RxJava](https://medium.com/google-cloud/android-push-notifications-gcm-and-rxjava-bc3356e91ea5)
 - View
 	- [RecyclerView技术栈](http://www.jianshu.com/p/16712681731e) - 介紹 RecyclerView 實作方法和使用方式。
 	- [The Anatomy of a Frame](https://medium.com/google-developers/the-anatomy-of-a-frame-d79e6c566c64)
 	- [Android 中WebView 的使用](http://tikitoo.me/2016/01/05/android-webview-note/)
-- HTTP
-- Thread
 - Design
 	- [How To Make Users Think Your App Loads Faster](https://medium.com/@101/how-to-make-users-think-your-app-loads-faster-24052fe307bf) - 如何設計出一個好的 load 畫面
 - Tool
 	- [Ready to prototype from within Sketch? Then say hello to Silver](https://medium.com/sketch-app-sources/ready-to-prototype-from-within-sketch-then-say-hello-to-silver-a9e68b0ce3db) - 使用 sketch 製作 App prototype
 
+- 開發經驗分享
+	- [Android 開發中，那些相見恨晚的接口](http://liukun.engineer/2016/04/11/Android%E5%BC%80%E5%8F%91%E4%B8%AD%EF%BC%8C%E9%82%A3%E4%BA%9B%E8%AE%A9%E4%BD%A0%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%81%E7%B1%BB%E6%88%96%E6%8E%A5%E5%8F%A3/)
+
+- 上架經驗分享
+	- [如何四週拿到一萬個五顆星](https://medium.com/@warpling/how-i-got-10-000-five-star-reviews-in-4-weeks-5246cc4c55c7)
+
 ### 系列教學文章
 - 入門教學
 	- [Android Guidline](http://guides.codepath.com/android) - [codepath](http://codepath.com/)
+	- [Google 手把手帶你認識 MVP](https://github.com/googlesamples/android-architecture) - [google sample](https://github.com/googlesamples)
 
 
 - 進階
