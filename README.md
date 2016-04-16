@@ -31,6 +31,7 @@
 	- [RecyclerView技术栈](http://www.jianshu.com/p/16712681731e) - 介紹 RecyclerView 實作方法和使用方式。
 	- [The Anatomy of a Frame](https://medium.com/google-developers/the-anatomy-of-a-frame-d79e6c566c64)
 	- [Android 中WebView 的使用](http://tikitoo.me/2016/01/05/android-webview-note/)
+	- [BottomSheets源码解析](https://github.com/android-cjj/SourceAnalysis)
 - Design
 	- [How To Make Users Think Your App Loads Faster](https://medium.com/@101/how-to-make-users-think-your-app-loads-faster-24052fe307bf) - 如何設計出一個好的 load 畫面
 - Tool
